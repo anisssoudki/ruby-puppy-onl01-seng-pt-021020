@@ -22,7 +22,7 @@ end
   def self.print_all
   @@all.each { |name| puts name }
 
-puts name
+puts name.get_name
  end
  
   
