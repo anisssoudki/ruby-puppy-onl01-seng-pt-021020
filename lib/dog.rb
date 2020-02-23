@@ -9,7 +9,7 @@ def initialize(name)
   save
 end
 
-  def name
+  def get_name
   @name
   end
   
