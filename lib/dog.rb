@@ -21,7 +21,7 @@ end
   def self.print_all
   @@all.each { |x| puts x }
 
-@@all[x]
+@@all.print_all
  end
  
   
