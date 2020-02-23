@@ -33,5 +33,5 @@ puts name
 
 def self.save
   @@all << self
-  
+end
 end
