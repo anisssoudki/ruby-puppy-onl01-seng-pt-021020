@@ -19,7 +19,7 @@ end
 
   
   def self.print_all
-  @@all.each { |x| puts x }
+  self.each { |x| puts x }
 
 print_all
  end
