@@ -27,7 +27,7 @@ print_all
   
     
   def self.clear_all
-    return @all.compact 
+     @@all.clear 
   end
 
   
