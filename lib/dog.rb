@@ -27,7 +27,7 @@ print_all
   
     
   def self.clear_all
-    @all = []
+    return @all = []
   end
 
   
