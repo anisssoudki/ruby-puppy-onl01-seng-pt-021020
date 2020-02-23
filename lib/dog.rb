@@ -20,7 +20,7 @@ end
   
   def self.print_all
   @all.each { |x| puts x }
-end
+
 print_all
  end
  
