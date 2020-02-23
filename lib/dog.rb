@@ -19,9 +19,9 @@ end
 
   
   def self.print_all
-  self.each { |x| puts x }
+  @@all.each { |x| puts x }
 
-print_all
+@@all
  end
  
   
